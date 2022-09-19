@@ -7,6 +7,7 @@ Todo o Script é montado para Windows. Não realizei testes em outros tipos de e
 A primeira parte, é a instalação correta do Script, tanto para Windows 7 e Windows 10.
 
 Passo a Passo de instalação para Windows 7: https://youtu.be/Y4QxGemfNrs
+
 Passo a Passo de instalação para Windows 10: https://youtu.be/J-dYveS3Bzc
 
 Arquivos disponiveis para concluir a instalação baseada nos vídeos acima.
