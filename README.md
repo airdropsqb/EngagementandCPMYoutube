@@ -33,12 +33,14 @@ O Script possui 2 arquivos.
 Cria o Banco de dados baseado na 
 Agora vamos as dependencias do Script que precisamos instalar.
 
-shutil -> pip instalar shutils
-sqlite_utils -> pip install sqlite-utils
-numpy - > pip install numpy
-array -> pip install Arrays
-random -> pip install random2
-selenium - > pip install pip install selenium 
+* shutil -> pip instalar shutils
+* sqlite_utils -> pip install sqlite-utils
+* numpy - > pip install numpy
+* array -> pip install Arrays
+* random -> pip install random2
+* selenium - > pip install pip install selenium 
+
+
 Vale lembrar que o selenium precisa do executavel, e o mesmo tem de ser da mesma versão do seu navegador Chrome.
 
 Se gostar deste Script, se inscreva no canal AirdropsQb, sempre tem um Script pratico para você.
